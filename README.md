@@ -4,7 +4,7 @@
 ![image](https://github.com/dablancog/Ironhack_Final_Project/assets/71353228/d81de271-92da-47a8-8719-039bf5c11b7a)
 
 **Project objective:** 
-Create a film recommendor and practice using NLP models.
+Develope a film recommendor and practice using NLP models.
 
 **Description:**
 The user can input a movie description. Given the synopsis of american films, our model is able to suggest similar movies.
