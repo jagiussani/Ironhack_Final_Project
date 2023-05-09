@@ -1,7 +1,7 @@
 # Ironhack_Final_Project
 Ironhack bootcamp final project. Movie recommender.
 
-![image](https://github.com/dablancog/Ironhack_Final_Project/assets/71353228/1c4070b3-4f46-4d0c-adb1-f8f9a61a39d6)
+![image](https://github.com/dablancog/Ironhack_Final_Project/assets/71353228/d81de271-92da-47a8-8719-039bf5c11b7a)
 
 Project objective: 
 Create a film recommendor and practice using NLP models.
