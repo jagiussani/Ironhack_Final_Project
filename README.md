@@ -18,7 +18,7 @@ We are using the following dataste from Kaggle:
 IMDB Movies - All Categories
 https://www.kaggle.com/datasets/drshashikanthvydyula/imdb-movies
 
-If needed, and time allows, we will collect additional movie synopsis data from a website like IMDB or Rotten Tomatoes. We use web scraping techniques to extract the synopsis for a large number of movies.
+If needed, and time allows (in day 4 and 5), we will collect additional movie synopsis data from a website like IMDB or Rotten Tomatoes. We use web scraping techniques to extract the synopsis for a large number of movies.
 
 **- Day 2:**
 **- Data cleaning and preprocessing:** 
