@@ -14,6 +14,10 @@ The user can input a movie description. Given the synopsis of american films, ou
 **- Data collection:** 
 Collect movie synopsis data from a website like IMDB or Rotten Tomatoes.We use web scraping techniques to extract the synopsis for a large number of movies.
 
+We are using the following dataste from Kaggle:
+Movie Synopsis Dataset
+https://www.kaggle.com/datasets/linggarmaretva/movie-synopsis-dataset
+
 **- Data cleaning and preprocessing:** 
 Preprocess the data by removing stop words, punctuations, and special characters. Convert the text data to a numerical format using techniques like TF-IDF (NLP).
 
